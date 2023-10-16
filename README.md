@@ -26,9 +26,6 @@
 
 ### 📈 GitHub Stats
 
-![Your github stats](https://github-readme-stats.vercel.app/api?username=ehsanestaji)
-
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ehsanestaji&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---

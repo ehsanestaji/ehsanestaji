@@ -27,8 +27,8 @@
 
 ### 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ehsanestaji/)
-- [Medium](https://medium.com/@Dr.EhsanEstaji)
+- [LinkedIn](https://www.linkedin.com/in/eestaji/)
+- [Medium](https://medium.com/@ehsan.estaji)
 
 ---
 

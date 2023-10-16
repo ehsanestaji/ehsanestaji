@@ -13,22 +13,22 @@
         padding: 20px;
         margin: auto;
         width: 80%;
-        background-color: #ffffff;
-        border-radius: 8px;
+        background-color: #fff;
+        border-radius: 12px;
         box-shadow: 0 0 10px rgba(0,0,0,0.1);
     }
     .header, .section {
         margin-bottom: 20px;
     }
     .header h2, .section h3 {
-        color: #3498db;
-        border-bottom: 2px solid #3498db;
+        color: #2980b9;
+        border-bottom: 2px solid #2980b9;
         padding-bottom: 10px;
         margin-bottom: 10px;
     }
     .tech-icons img {
         margin-right: 10px;
-        border-radius: 50%;
+        border-radius: 8px;
         -webkit-transition: transform 0.2s ease-in-out;
         transition: transform 0.2s ease-in-out;
     }
@@ -37,22 +37,16 @@
     }
     .portfolio-item {
         margin-bottom: 10px;
-        background-color: #f8f9fa;
+        background-color: #f4f4f4;
         padding: 10px;
-        border-radius: 5px;
+        border-radius: 8px;
     }
     .portfolio-item p {
         margin: 0;
     }
-    a {
-        color: #3498db;
-        text-decoration: none;
-    }
-    a:hover {
-        text-decoration: underline;
-    }
     .connect-icons a {
         margin-right: 10px;
+        color: #2980b9;
     }
 </style>
 </head>
@@ -115,7 +109,7 @@
 
     ---
 
-    Thank you for visiting my profile. Feel free to fork or star my repositories if you find them useful! 
+    Thank you for visiting my profile. Feel free to fork or star my repositories if you find them useful!
 
 </div>
 

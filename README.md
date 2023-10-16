@@ -2,10 +2,10 @@
 <head>
 <style>
     body {
-        font-family: Arial, sans-serif;
+        font-family: 'Helvetica Neue', Arial, sans-serif;
         line-height: 1.6;
-        color: #333;
-        background-color: #f4f4f4;
+        color: #2c3e50;
+        background-color: #ecf0f1;
         margin: 0;
         padding: 0;
     }
@@ -13,18 +13,22 @@
         padding: 20px;
         margin: auto;
         width: 80%;
-        background-color: #fff;
+        background-color: #ffffff;
         border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
     }
     .header, .section {
         margin-bottom: 20px;
     }
     .header h2, .section h3 {
-        color: #444;
+        color: #3498db;
+        border-bottom: 2px solid #3498db;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
     }
     .tech-icons img {
         margin-right: 10px;
-        border-radius: 8px;
+        border-radius: 50%;
         -webkit-transition: transform 0.2s ease-in-out;
         transition: transform 0.2s ease-in-out;
     }
@@ -33,9 +37,22 @@
     }
     .portfolio-item {
         margin-bottom: 10px;
+        background-color: #f8f9fa;
+        padding: 10px;
+        border-radius: 5px;
     }
     .portfolio-item p {
         margin: 0;
+    }
+    a {
+        color: #3498db;
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    .connect-icons a {
+        margin-right: 10px;
     }
 </style>
 </head>
@@ -91,12 +108,14 @@
 
     ### 🤝 Connect with Me
 
-    - [LinkedIn](https://www.linkedin.com/in/eestaji/)
-    - [Medium](https://medium.com/@ehsan.estaji)
+    <div class="connect-icons">
+        - [LinkedIn](https://www.linkedin.com/in/eestaji/)
+        - [Medium](https://medium.com/@ehsan.estaji)
+    </div>
 
     ---
 
-    Thank you for visiting my profile. Feel free to fork or star my repositories if you find them useful!
+    Thank you for visiting my profile. Feel free to fork or star my repositories if you find them useful! 
 
 </div>
 

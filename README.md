@@ -35,12 +35,4 @@
 
 Thank you for visiting my profile. Feel free to fork or star my repositories if you find them useful! 
 
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsanestaji&show_icons=true&locale=en&layout=compact" alt="ehsanestaji" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanestaji&show_icons=true&locale=en" alt="ehsanestaji" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanestaji&" alt="ehsanestaji" /></p>
-
 

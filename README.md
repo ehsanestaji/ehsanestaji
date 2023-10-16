@@ -8,7 +8,7 @@
 
 - 🎓 I hold dual PhDs in **Mathematics** and **Computer Science**.
 - 🎓 Currently, I'm a **Postdoctoral Researcher at SnT**, Luxembourg.
-- 🤖 My research interests include **Data Analysis**, **Machine Learning**, and **Model Formulation**.
+- 🤖 My research interests include **Algebraic Graph Theory**, **E-Voting**, **Graph Mining** and **Network Science**.
 - 🌱 Learning more about **Automation**, **Cloud Architecture**, and **Scalable Systems**.
 
 ---

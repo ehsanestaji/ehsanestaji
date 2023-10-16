@@ -2,10 +2,10 @@
 <head>
 <style>
     body {
-        font-family: 'Helvetica Neue', Arial, sans-serif;
+        font-family: Arial, sans-serif;
         line-height: 1.6;
-        color: #2c3e50;
-        background-color: #ecf0f1;
+        color: #333;
+        background-color: #f4f4f4;
         margin: 0;
         padding: 0;
     }
@@ -14,17 +14,13 @@
         margin: auto;
         width: 80%;
         background-color: #fff;
-        border-radius: 12px;
-        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        border-radius: 8px;
     }
     .header, .section {
         margin-bottom: 20px;
     }
     .header h2, .section h3 {
-        color: #2980b9;
-        border-bottom: 2px solid #2980b9;
-        padding-bottom: 10px;
-        margin-bottom: 10px;
+        color: #444;
     }
     .tech-icons img {
         margin-right: 10px;
@@ -37,16 +33,9 @@
     }
     .portfolio-item {
         margin-bottom: 10px;
-        background-color: #f4f4f4;
-        padding: 10px;
-        border-radius: 8px;
     }
     .portfolio-item p {
         margin: 0;
-    }
-    .connect-icons a {
-        margin-right: 10px;
-        color: #2980b9;
     }
 </style>
 </head>
@@ -102,10 +91,8 @@
 
     ### 🤝 Connect with Me
 
-    <div class="connect-icons">
-        - [LinkedIn](https://www.linkedin.com/in/eestaji/)
-        - [Medium](https://medium.com/@ehsan.estaji)
-    </div>
+    - [LinkedIn](https://www.linkedin.com/in/eestaji/)
+    - [Medium](https://medium.com/@ehsan.estaji)
 
     ---
 

@@ -28,12 +28,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ehsanestaji&theme=dark&background=000000)](https://git.io/streak-stats)
 
----
-
-### 📚 Latest Blog Posts
-
-- [Why Data Analysis is important](https://medium.com/@Dr.EhsanEstaji)
-- [Demystifying Machine Learning](https://medium.com/@Dr.EhsanEstaji)
 
 ---
 

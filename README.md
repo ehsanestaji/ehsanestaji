@@ -1,8 +1,6 @@
-# Dr. Ehsan Estaji 👋
+## Hi there, welcome to my GitHub profile! 👋
 
-## Hi there, welcome to my GitHub profile!
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+![Profile Views](https://komarev.com/ghpvc/?username=ehsanestaji)
 
 ---
 

@@ -24,7 +24,7 @@
 
 I am working on a series of data science and analysis projects, primarily focused on the healthcare sector. Below are the projects I am currently engaged in or have completed. I will be updating this section with links to the repositories as soon as each project is completed.
 
-- **[Link text](https://website-name.com)Exploratory Data Analysis**: Analyzing a Star Wars survey dataset to uncover insights about fans’ preferences regarding movies, characters, and plot points.
+- **[Exploratory Data Analysis](https://github.com/ehsanestaji/Exploratory-Data-Analysis-EDA)**: Analyzing a Star Wars survey dataset to uncover insights about fans’ preferences regarding movies, characters, and plot points.
   - _Technologies: Pandas, Matplotlib, Seaborn_
 - **Predictive Modeling**: Building models to predict the onset of specific medical conditions using healthcare datasets.
   - _Technologies: Scikit-learn, Pandas_

@@ -9,6 +9,7 @@
 
 - 🔬 **Postdoctoral Researcher** at [SnT, Luxembourg](https://www.uni.lu/snt-en/)
 - 🎓 **Two PhDs** in **Mathematics** & **Computer Science**
+- 📈 **Google Certified Data Analyst**
 - 💡 Specialized in **Algebraic Graph Theory**, **E-Voting**, **Graph Mining**, & **Network Science**
 - 🌱 Currently diving deep into **Automation**, **Cloud Architecture**, & **Scalable Systems**
 
@@ -16,7 +17,7 @@
 
 ## 📚 Research and Publications
 
-I hold dual PhDs in Mathematics and Computer Science and am currently a Postdoctoral Researcher at [SnT](https://www.uni.lu/snt-en/), Luxembourg. My research pursuits are multifaceted, covering two major domains:
+My research pursuits are multifaceted, covering two major domains:
 
 ### 📊 Algebraic Graph Theory (Related to First PhD)
 In this domain, my research themes include:
@@ -25,11 +26,12 @@ In this domain, my research themes include:
 - Studying symmetry in graphs
 
 **Selected Publications**
-- **Paper Title A**: Published in Journal XYZ, Year. [[PDF](https://link-to-paper.com)]
-- **Paper Title B**: Published in Journal MNO, Year. [[PDF](https://link-to-paper.com)]
+- **Distinguishing cartesian products of countable graphs**:[[PDF](https://home.agh.edu.pl/~pilsniak/24.pdf)]
+- **Moore–Penrose inverse of incidence matrix of graphs with complete and cyclic blocks**: [[PDF](https://www.sciencedirect.com/science/article/pii/S0012365X18303145)]
+- **The strong metric dimension of generalized Sierpi´nski graphs with pendant vertices**: [[PDF](https://amc-journal.eu/index.php/amc/article/view/813)]
+- **Wiener index of certain families of hexagonal chains**: [[PDF](https://link.springer.com/article/10.1007/s12190-018-1177-9)]
+- **On the unit graph of a non-commutative ring**: [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S100538671500070X)]
 
-**Ongoing Research**
-- **Research Project A**: Description and technologies used.
 
 ### 🗳 E-Voting and Information Security (Related to Second PhD)
 My work in this domain is centered around:
@@ -37,11 +39,14 @@ My work in this domain is centered around:
 - Utilizing machine learning and data science to predict models for national level elections
 
 **Selected Publications**
-- **Paper Title 1**: Published in Journal DEF, Year. [[PDF](https://link-to-paper.com)]
-- **Paper Title 2**: Published in Conference GHI, Year. [[PDF](https://link-to-paper.com)]
+- **Revisiting practical and usable coercion-resistant remote e-voting**: [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-60347-2_4)]
+- **Machine-checked proofs of privacy against malicious boards for Selene & Co**:[[PDF](https://ieeexplore.ieee.org/abstract/document/9919663)]
 
-**Ongoing Research**
-- **Research Project 1**: Description and technologies used.
+- **“Just for the sake of transparency”: Exploring Voter Mental Models of Verifiability**: [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-86942-7_11)]
+
+
+
+
 
 For more details, check out my thesis on the subject [here](https://orbilu.uni.lu/handle/10993/57126).
 
@@ -60,9 +65,11 @@ For a complete list of my publications, please visit my [Google Scholar profile]
 
 ---
 
-## 📊 Portfolio
+## 📊 Portfolio & Industry Engagements
 
-I am working on a series of data science and analysis projects, primarily focused on the healthcare sector. Below are the projects I am currently engaged in or have completed. I will be updating this section with links to the repositories as soon as each project is completed.
+Alongside my academic pursuits, I'm also deeply engaged in applying my skills in an industrial context. I have successfully completed Google's extensive program for Data Analyst Certification. I work on various projects outside my academic life to apply my strong mathematical and computational foundation to real-world issues.
+
+**Projects**
 
 - **[Exploratory Data Analysis](https://github.com/ehsanestaji/Exploratory-Data-Analysis-EDA)**: Analyzing a Star Wars survey dataset to uncover insights about fans’ preferences regarding movies, characters, and plot points.
   - _Technologies: Pandas, Matplotlib, Seaborn_

@@ -14,13 +14,38 @@
 
 ---
 
-## 🎓 Publication and Researchs?
+## 📚 Research and Publications
 
+I hold dual PhDs in Mathematics and Computer Science and am currently a Postdoctoral Researcher at [SnT](https://www.uni.lu/snt-en/), Luxembourg. My research pursuits are multifaceted, covering two major domains:
 
+### 📊 Algebraic Graph Theory (Related to First PhD)
+In this domain, my research themes include:
+- Graphs associated with algebraic structures
+- Metric dimension of graphs
+- Studying symmetry in graphs
 
+**Selected Publications**
+- **Paper Title A**: Published in Journal XYZ, Year. [[PDF](https://link-to-paper.com)]
+- **Paper Title B**: Published in Journal MNO, Year. [[PDF](https://link-to-paper.com)]
 
+**Ongoing Research**
+- **Research Project A**: Description and technologies used.
 
+### 🗳 E-Voting and Information Security (Related to Second PhD)
+My work in this domain is centered around:
+- Individual verification in e-voting systems
+- Utilizing machine learning and data science to predict models for national level elections
 
+**Selected Publications**
+- **Paper Title 1**: Published in Journal DEF, Year. [[PDF](https://link-to-paper.com)]
+- **Paper Title 2**: Published in Conference GHI, Year. [[PDF](https://link-to-paper.com)]
+
+**Ongoing Research**
+- **Research Project 1**: Description and technologies used.
+
+For more details, check out my thesis on the subject [here](https://orbilu.uni.lu/handle/10993/57126).
+
+For a complete list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=nK8EziQAAAAJ&hl=en).
 
 ---
 
@@ -35,7 +60,7 @@
 
 ---
 
-### 📊 Portfolio
+## 📊 Portfolio
 
 I am working on a series of data science and analysis projects, primarily focused on the healthcare sector. Below are the projects I am currently engaged in or have completed. I will be updating this section with links to the repositories as soon as each project is completed.
 

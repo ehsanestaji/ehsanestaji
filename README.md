@@ -78,7 +78,6 @@ Alongside my academic pursuits, I'm also deeply engaged in applying my skills in
   - **Technologies**: Pandas, Matplotlib, Seaborn
 
 - **[Predictive Modeling in Healthcare](https://github.com/ehsanestaji/PredictiveMLClassifier)**: Leveraging machine learning to predict complications during hospitalization.
-  - **Project**: [Predicting Hospitalization Complications](#Link-to-your-GitHub-repo)
     - **Description**: Developed a robust machine learning classifier to predict the occurrence of complications in hospitalized patients. Utilized an extensive dataset encompassing various patient details and surgical timings. The project involved comprehensive data cleaning, exploratory data analysis, and hyperparameter tuning.
     - **Models**: Random Forest, XGBoost, Neural Networks
     - **Metrics**: Achieved an accuracy of 95% with XGBoost, and explored model interpretability through SHAP values and feature importances.

@@ -93,6 +93,12 @@ Alongside my academic pursuits, I'm also deeply engaged in applying my skills in
 
 
 
+- **[Amazon Product Reviews Analysis](https://github.com/ehsanestaji/Luxury-Beauty-Recommender-System)**
+    - **Description**: Analyzes Amazon product reviews using various Natural Language Processing techniques. The objective is to identify semantic relationships, the most common terms, and named entities within the reviews and to use machine learning to predict the ratings.
+    - **Methodology**: Includes data preprocessing, advanced NLP methods, and machine learning for feature engineering and model building.
+    - **Limitations**: Cannot handle unknown words, limited by lemmatization and lack of spell check, and cannot detect sarcasm or irony.
+    - **Technologies**: Python 3.x, Pandas, spaCy, Gensim, scikit-learn, Matplotlib or other visualization libraries
+
 ---
 
 ### 📈 GitHub Stats

@@ -82,6 +82,16 @@ Alongside my academic pursuits, I'm also deeply engaged in applying my skills in
     - **Models**: Random Forest, XGBoost, Neural Networks
     - **Metrics**: Achieved an accuracy of 95% with XGBoost, and explored model interpretability through SHAP values and feature importances.
     - **Technologies**: Scikit-learn, Pandas, Matplotlib, Seaborn, XGBoost, TensorFlow/Keras
+ 
+
+
+- **[Protein Classification using Graph Neural Networks (GNNs)](https://github.com/ehsanestaji/Protein-Classification-GNN/tree/main)**: Using Graph Neural Networks (GNNs) for classifying proteins. The model can distinguish between enzyme and non-enzyme proteins, leveraging the capabilities of GNNs for an efficient and accurate classification.
+
+    - **Models**: Graph Neural Network, Graph Convolutional Neural Network
+    -  **Metrics**: Achieved an accuracy of approximately 73.33%.
+    -  **Technologies**: PyTorch, BioPython, NetworkX, PyViz, scikit-learn
+
+
 
 ---
 

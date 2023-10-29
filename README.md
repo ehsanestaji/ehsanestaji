@@ -106,7 +106,7 @@ Alongside my academic pursuits, I'm also deeply engaged in applying my skills in
   - **Models**: The project makes use of binary classification models like Logistic Regression implemented in PySpark's MLlib.
   - **Project Structure**: The main Jupyter Notebook (`Income-Spark.ipynb`) covers essential library imports, initialization of PySpark configuration, and step-by-step analysis and model building.
   - **Metrics**: Performance metrics like accuracy, precision, recall, and F1-score are used to evaluate the models.
-  - **Technologies**: PySpark, Python, Jupyter Notebook
+  - **Technologies**: PySpark, Python, Jupyter Notebook.
 
 ---
 

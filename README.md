@@ -100,7 +100,7 @@ Alongside my academic pursuits, I'm also deeply engaged in applying my skills in
     - **Technologies**: Python 3.x, Pandas, spaCy, Gensim, scikit-learn, Matplotlib or other visualization libraries
  
 
-- **[Loan Application Analysis using PySpark](https://github.com/ehsanestaji/Loan-Application-Analysis-PySpark)**: Comprehensive analysis and binary classification of loan applications leveraging PySpark.
+- **[Loan Application Analysis using PySpark](https://github.com/ehsanestaji/Loan-Application-Analysis-using-PySpark)**: Comprehensive analysis and binary classification of loan applications leveraging PySpark.
   - **Description**: This repository contains an end-to-end analysis of loan applications using PySpark. The project involves data manipulation, feature engineering, and the application of binary classification models to predict loan default risks. The data is sourced from the Home Credit Default Risk competition on Kaggle.
   - **Data Overview**: The project utilizes the `application_train.csv` file which contains 307,511 entries and 122 columns, comprising of different data types like Float64, Int64, and Object. 
   - **Models**: The project makes use of binary classification models like Logistic Regression implemented in PySpark's MLlib.

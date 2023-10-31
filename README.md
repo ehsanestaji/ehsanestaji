@@ -109,12 +109,11 @@ Alongside my academic pursuits, I'm also deeply engaged in applying my skills in
   - **Technologies**: PySpark, Python, Jupyter Notebook.
 
 
-Thank you for providing the markdown content of your Jupyter Notebook. Based on the information you've shared, here is a markdown description that you can add to your GitHub profile for the "CA Traffic Collision Analysis" project:
-
+---
 
 - **[CA Traffic Collision Analysis](https://github.com/your_username/CA-Traffic-Collision-Analysis)**
     - **Description**: This project aims to explore, understand, and analyze traffic collisions in California. The analysis focuses on factors contributing to collisions, time-series trends, and geospatial hotspots. Various tables such as `case_ids`, `collisions`, `victims`, and `parties` are explored to dig deep into the factors behind collisions.
-    - **Data Overview**: The project utilizes SQLite tables that include `case_ids`, `collisions`, `victims`, and `parties`. Each table has its own set of features that contribute to the overall analysis.
+    - **Data Overview**: The project utilizes SQLite tables sourced from [California Traffic Collision Data from SWITRS](https://www.kaggle.com/datasets/alexgude/california-traffic-collision-data-from-switrs). The dataset includes tables like `case_ids`, `collisions`, `victims`, and `parties`, each with its own set of features that contribute to the overall analysis.
     - **Analysis Steps**:
         - Database Schema Overview
         - Basic Summary Statistics

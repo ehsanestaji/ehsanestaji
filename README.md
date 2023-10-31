@@ -111,7 +111,6 @@ Alongside my academic pursuits, I'm also deeply engaged in applying my skills in
 
 Thank you for providing the markdown content of your Jupyter Notebook. Based on the information you've shared, here is a markdown description that you can add to your GitHub profile for the "CA Traffic Collision Analysis" project:
 
----
 
 - **[CA Traffic Collision Analysis](https://github.com/your_username/CA-Traffic-Collision-Analysis)**
     - **Description**: This project aims to explore, understand, and analyze traffic collisions in California. The analysis focuses on factors contributing to collisions, time-series trends, and geospatial hotspots. Various tables such as `case_ids`, `collisions`, `victims`, and `parties` are explored to dig deep into the factors behind collisions.

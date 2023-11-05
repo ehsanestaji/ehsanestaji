@@ -71,6 +71,15 @@ Alongside my academic pursuits, I'm also deeply engaged in applying my skills in
 
 **Projects**
 
+
+- **[Brain Tumor Classification](https://github.com/ehsanestaji/Brain-Tumor-Detection)**: Classifying brain tumors using machine learning and deep learning techniques.
+  - **Description**: This project involves classifying MRI brain images into four categories of tumors using classical machine learning and convolutional neural networks. It is encapsulated in a Jupyter notebook covering the entire pipeline from preprocessing to evaluation.
+  - **Features**: The notebook includes visualization of data samples, preprocessing steps, feature engineering, model training (k-NN and CNN), and evaluation with detailed visualizations of results.
+  - **Technologies**: Python, TensorFlow, Keras, Scikit-learn, OpenCV, Matplotlib, Seaborn
+  - **Results**: Provided a comprehensive walkthrough for brain tumor classification with detailed analysis and evaluation of model performance.
+  - **Visualizations**: The project utilizes Matplotlib and Seaborn for creating intuitive visualizations of the classification reports and confusion matrix.
+
+
 - **[Exploratory Data Analysis (Star Wars Survey)](https://github.com/ehsanestaji/Exploratory-Data-Analysis-EDA)**: In-depth analysis of a Star Wars survey dataset to glean comprehensive insights into fans' preferences.
   - **Description**: Conducted a thorough exploratory data analysis on a survey dataset containing responses from Star Wars fans. The analysis aimed to discover intricate patterns and insights related to fans' preferences concerning movies, characters, and plot points.
   - **Findings**: Uncovered key insights into the popularity of various Star Wars episodes, the divide in fan opinions on certain characters, and the significance of the plot points that most resonate with the audience.

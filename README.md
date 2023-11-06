@@ -56,12 +56,39 @@ For a complete list of my publications, please visit my [Google Scholar profile]
 
 ## 🛠️ Skill Set
 
+My skill set is a blend of deep theoretical knowledge and practical technical expertise:
 
-> 📘 **Languages:** Python, JavaScript, SQL, Bash  
-> 🖥️ **Frameworks:** Bootstrap, Pandas, Scikit-learn  
-> ☁️ **Cloud:** AWS, GCP  
-> 🌐 **Web Technologies:** HTML, CSS  
-> 🔧 **Other Tools:** Git, Linux  
+> 📘 **Programming Languages:** 
+> - **Python**: Advanced usage in data science, machine learning, and scientific computing with libraries like TensorFlow, Keras, Scikit-learn, Pandas, NumPy, and OpenCV.
+> - **JavaScript**: Utilized primarily for data visualization and interactive web application features.
+> - **SQL**: Employed for database queries and management.
+> - **Bash**: Scripting for task automation on Linux platforms.
+
+> 🖥️ **Data Science & Machine Learning:** 
+> - Comprehensive experience in developing and evaluating machine learning models such as k-NN, CNN, Random Forest, and XGBoost.
+> - Deep learning application with TensorFlow/Keras for tasks like brain tumor classification.
+> - Graph Neural Networks (GNNs) for complex structured data like protein classification.
+
+> ☁️ **Cloud Platforms:** 
+> - **AWS & GCP**: Applied cloud services for scalable data storage and compute tasks.
+
+> 🌐 **Web Development:** 
+> - Basic knowledge of HTML and CSS for web content structuring and styling.
+
+> 📊 **Data Analysis & Visualization:** 
+> - Proficient with Pandas for data manipulation and analysis.
+> - Skilled in using visualization tools such as Matplotlib, Seaborn, and Plotly to derive insights from data and to communicate findings effectively.
+
+> 🔧 **Development Tools:** 
+> - **Git**: For version control and collaborative coding.
+> - **Linux**: Comfortable with the Linux environment for development and deployment tasks.
+
+> 🤖 **Natural Language Processing (NLP):** 
+> - Experience with NLP techniques and libraries like spaCy and Gensim for text analysis and sentiment classification.
+
+> 🗄️ **Big Data Technologies:** 
+> - Utilized PySpark for handling and analyzing large datasets in a distributed computing environment.
+
 
 ---
 

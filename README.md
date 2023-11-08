@@ -1,6 +1,5 @@
 ## Hi there, welcome to my GitHub profile! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username)
 
 ---
 

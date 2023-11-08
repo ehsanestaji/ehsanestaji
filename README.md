@@ -1,7 +1,6 @@
 ## Hi there, welcome to my GitHub profile! 👋
 
 
----
 
 
 ## 🎓 Who Am I?

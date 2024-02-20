@@ -13,44 +13,6 @@
 
 ---
 
-## 📚 Research and Publications
-
-My research pursuits are multifaceted, covering two major domains:
-
-### 📊 Algebraic Graph Theory (Related to First PhD)
-In this domain, my research themes include:
-- Graphs associated with algebraic structures
-- Metric dimension of graphs
-- Studying symmetry in graphs
-
-**Selected Publications**
-- **Distinguishing cartesian products of countable graphs**:[[PDF](https://home.agh.edu.pl/~pilsniak/24.pdf)]
-- **Moore–Penrose inverse of the incidence matrix of graphs with complete and cyclic blocks**: [[PDF](https://www.sciencedirect.com/science/article/pii/S0012365X18303145)]
-- **The strong metric dimension of generalized Sierpi´nski graphs with pendant vertices**: [[PDF](https://amc-journal.eu/index.php/amc/article/view/813)]
-- **Wiener index of certain families of hexagonal chains**: [[PDF](https://link.springer.com/article/10.1007/s12190-018-1177-9)]
-- **On the unit graph of a non-commutative ring**: [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S100538671500070X)]
-
-
-### 🗳 E-Voting and Information Security (Related to Second PhD)
-My work in this domain is centered around:
-- Individual verification in e-voting systems
-- Utilizing machine learning and data science to predict models for national-level elections
-
-**Selected Publications**
-- **Revisiting practical and usable coercion-resistant remote e-voting**: [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-60347-2_4)]
-- **Machine-checked proofs of privacy against malicious boards for Selene & Co**:[[PDF](https://ieeexplore.ieee.org/abstract/document/9919663)]
-
-- **“Just for the sake of transparency”: Exploring Voter Mental Models of Verifiability**: [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-86942-7_11)]
-
-
-
-
-
-For more details, check out my thesis on the subject [here](https://orbilu.uni.lu/handle/10993/57126).
-
-For a complete list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=nK8EziQAAAAJ&hl=en).
-
----
 
 ## 🛠️ Skill Set
 
@@ -87,6 +49,48 @@ My skill set is a blend of deep theoretical knowledge and practical technical ex
 > 🗄️ **Big Data Technologies:** 
 > - Utilized PySpark for handling and analyzing large datasets in a distributed computing environment.
 
+
+
+
+---
+
+
+## 📚 Research and Publications
+
+My research pursuits are multifaceted, covering two major domains:
+
+### 📊 Algebraic Graph Theory (Related to First PhD)
+In this domain, my research themes include:
+- Graphs associated with algebraic structures
+- Metric dimension of graphs
+- Studying symmetry in graphs
+
+**Selected Publications**
+- **Distinguishing cartesian products of countable graphs**:[[PDF](https://home.agh.edu.pl/~pilsniak/24.pdf)]
+- **Moore–Penrose inverse of the incidence matrix of graphs with complete and cyclic blocks**: [[PDF](https://www.sciencedirect.com/science/article/pii/S0012365X18303145)]
+- **The strong metric dimension of generalized Sierpi´nski graphs with pendant vertices**: [[PDF](https://amc-journal.eu/index.php/amc/article/view/813)]
+- **Wiener index of certain families of hexagonal chains**: [[PDF](https://link.springer.com/article/10.1007/s12190-018-1177-9)]
+- **On the unit graph of a non-commutative ring**: [[PDF](https://www.worldscientific.com/doi/abs/10.1142/S100538671500070X)]
+
+
+### 🗳 E-Voting and Information Security (Related to Second PhD)
+My work in this domain is centered around:
+- Individual verification in e-voting systems
+- Utilizing machine learning and data science to predict models for national-level elections
+
+**Selected Publications**
+- **Revisiting practical and usable coercion-resistant remote e-voting**: [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-60347-2_4)]
+- **Machine-checked proofs of privacy against malicious boards for Selene & Co**:[[PDF](https://ieeexplore.ieee.org/abstract/document/9919663)]
+
+- **“Just for the sake of transparency”: Exploring Voter Mental Models of Verifiability**: [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-86942-7_11)]
+
+
+
+
+
+For more details, check out my thesis on the subject [here](https://orbilu.uni.lu/handle/10993/57126).
+
+For a complete list of my publications, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=nK8EziQAAAAJ&hl=en).
 
 ---
 

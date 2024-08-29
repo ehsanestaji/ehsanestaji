@@ -4,7 +4,6 @@
 
 - 🔬 **Postdoctoral Researcher** at [SnT, Luxembourg](https://www.uni.lu/snt-en/)
 - 🎓 **Two PhDs** in **Mathematics** & **Computer Science**
-- 🧬 **Bioinformatics Researcher** with expertise in **Metagenomics** and **Microbiome Data Analysis**
 - 📈 **Google Certified Data Analyst**
 - 💡 Specialized in **Algebraic Graph Theory**, **Bioinformatics Pipelines**, **Graph Neural Networks**, & **Network Science**
 - 🌱 Currently focusing on **Automation in Bioinformatics**, **Graph Databases**, & **Scalable Systems for Biological Data**

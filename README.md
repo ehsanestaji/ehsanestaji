@@ -1,56 +1,86 @@
-## Hi there, welcome to my GitHub profile! 👋
+## 👋 Hi, I’m Ehsan Estaji
 
-## 🎓 Who Am I?
+Welcome to my GitHub profile!  
+I’m a **Postdoctoral Researcher** at the **Umeå Plant Science Centre (UPSC), Umeå University**, working at the intersection of **machine learning, network science, and computational biology**.
 
-- 🔬 **Postdoctoral Researcher** at [SnT, Luxembourg](https://www.uni.lu/snt-en/)
-- 🎓 **Two PhDs** in **Mathematics** & **Computer Science**
-- 📈 **Google Certified Data Analyst**
-- 💡 Specialized in **Algebraic Graph Theory**, **Bioinformatics Pipelines**, **Graph Neural Networks**, & **Network Science**
-- 🌱 Currently focusing on **Automation in Bioinformatics**, **Graph Databases**, & **Scalable Systems for Biological Data**
+🌐 Website: https://www.ehsanestaji.com
 
 ---
 
-## 🛠️ Skill Set
+## 🎓 About Me
 
-My skill set is a fusion of theoretical knowledge and practical expertise, particularly in bioinformatics:
+I am a researcher with dual PhDs in **Mathematics** and **Computer Science**, currently a Postdoctoral Researcher at the Umeå Plant Science Centre (UPSC), Umeå University. My work bridges **machine learning, network science, and computational biology**, with a particular focus on **long non-coding RNAs (lncRNAs)** and **graph-based AI for understanding complex biological systems**.  [oai_citation:0‡ehsanestaji.com](https://ehsanestaji.com/?utm_source=chatgpt.com)
 
-> 📘 **Programming Languages:** 
-> - **Python**: Advanced usage in bioinformatics, data science, and machine learning with libraries like TensorFlow, Keras, Scikit-learn, Pandas, NumPy, and Biopython.
-> - **R**: Utilized for statistical analysis and bioinformatics packages like `ggplot2`, `dplyr`, and `edgeR`.
-> - **SQL**: Employed for managing biological databases and querying large datasets.
-> - **Bash**: Scripting for automating bioinformatics workflows on Linux platforms.
+I design end-to-end computational frameworks that connect raw biological signals—such as RNA-seq and multi-omics data—to interpretable graph representations and biological hypotheses. My research integrates **self-supervised learning**, **graph neural networks (GNNs)**, and AI-driven discovery pipelines to uncover regulatory patterns and gene interactions across plant species.  [oai_citation:1‡ehsanestaji.com](https://ehsanestaji.com/?utm_source=chatgpt.com)
 
-> 🧬 **Bioinformatics & Computational Biology:** 
-> - Expertise in developing and automating bioinformatics pipelines for processing and analyzing metagenomic and microbiome data.
-> - Experience with graph-theoretical approaches for analyzing complex biological networks and applying Graph Neural Networks (GNNs) for predictive and descriptive analytics in omics data.
-> - Proficient in tools like Nextflow and Docker for containerizing and scaling bioinformatics workflows.
-
-> ☁️ **Cloud Platforms:** 
-> - **AWS & GCP**: Applied cloud services for scalable storage and computation of large biological datasets.
-
-> 📊 **Data Analysis & Visualization:** 
-> - Proficient with Pandas and R for data manipulation and analysis in bioinformatics.
-> - Skilled in using visualization tools such as Matplotlib, Seaborn, ggplot2, and Cytoscape to derive insights from complex biological data.
-
-> 🗄️ **Graph Databases:** 
-> - **Neo4j**: Applied for storing and querying large-scale biological networks, facilitating advanced graph-based analyses.
-
-> 🔧 **Development Tools:** 
-> - **Git**: For version control and collaborative research coding.
-> - **Linux**: Comfortable with the Linux environment for development and deployment of bioinformatics applications.
-
-> 🤖 **Natural Language Processing (NLP):** 
-> - Experience with NLP techniques for analyzing scientific literature and extracting meaningful information from biological texts.
-
-> 🗄️ **Big Data Technologies:** 
-> - Utilized PySpark and Hadoop for handling and analyzing large-scale biological datasets in distributed environments.
+Beyond research, I bring a strong engineering mindset to the practical side of science:
+- 🧠 Building scalable ML pipelines and automated workflows for biological data.
+- 🌿 Developing graph-centric models for gene regulatory network inference.
+- 💡 Creating interactive dashboards and visualization tools for interpretable AI in genomics.
+- ⚙️ Applying MLOps and data-centric design to translate scientific prototypes into usable tools.  [oai_citation:2‡ehsanestaji.com](https://ehsanestaji.com/?utm_source=chatgpt.com)
 
 ---
 
-### 🤝 Connect with Me
+## 🧠 Research Interests
 
-- [LinkedIn](https://www.linkedin.com/in/eestaji/)
-- [Medium](https://medium.com/@ehsan.estaji)
-- **Email**: ehsan.estaji [at] gmail [dot] com
+- 🌿 **Computational Biology & Genomics**
+  - lncRNA analysis
+  - RNA-seq and multi-omics integration
+  - Gene regulatory network inference
+
+- 🧩 **Graph-Based AI & Network Science**
+  - Graph Neural Networks (GNNs)
+  - Network representation learning
+  - Graph-centric modeling of biological systems
+
+- 🤖 **Machine Learning for Scientific Discovery**
+  - Self-supervised and representation learning
+  - Interpretable ML for biological data
+  - AI-driven hypothesis generation
 
 ---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Data
+Python · R · SQL · Bash · Git · Linux
+
+### 🧬 Bioinformatics & ML
+RNA-seq pipelines · multi-omics integration · GNNs · Scikit-learn · PyTorch / TensorFlow · Network analysis
+
+### ⚙️ Pipelines & MLOps
+Nextflow · Docker · reproducible and scalable workflow automation · data-centric ML design
+
+### 📊 Visualization & Exploration
+Matplotlib · Seaborn · ggplot2 · Cytoscape · interactive dashboards
+
+---
+
+## 🚀 What You’ll Find Here
+
+This profile includes repositories that reflect my research and engineering work:
+- 🧬 Bioinformatics pipelines and workflows
+- 🧠 Graph-based ML tools and models
+- ⚙️ Scalable and reproducible computational systems
+- 📊 Visualization and interpretability utilities
+
+Feel free to explore, ⭐, and engage!
+
+---
+
+## 📚 Publications
+
+You can find my full list of publications and citation metrics on my Google Scholar page:  
+➡️ https://scholar.google.com/citations?user=nK8EziQAAAAJ&hl=en  [oai_citation:3‡Google Scholar](https://scholar.google.com/citations?hl=en&user=nK8EziQAAAAJ&utm_source=chatgpt.com)
+
+---
+
+## 🤝 Let’s Connect
+
+- 🌐 Website: https://www.ehsanestaji.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/eestaji/
+- ✉️ Email: ehsan.estaji [at] gmail [dot] com
+
+---
+
+*I thrive where mathematics meets biology — and where AI helps transform data into discovery.*

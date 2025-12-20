@@ -53,17 +53,6 @@ Nextflow · Docker · reproducible and scalable workflow automation · data-cent
 ### 📊 Visualization & Exploration
 Matplotlib · Seaborn · ggplot2 · Cytoscape · interactive dashboards
 
----
-
-## 🚀 What You’ll Find Here
-
-This profile includes repositories that reflect my research and engineering work:
-- 🧬 Bioinformatics pipelines and workflows
-- 🧠 Graph-based ML tools and models
-- ⚙️ Scalable and reproducible computational systems
-- 📊 Visualization and interpretability utilities
-
-Feel free to explore, ⭐, and engage!
 
 ---
 

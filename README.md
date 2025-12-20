@@ -70,7 +70,7 @@ Feel free to explore, ⭐, and engage!
 ## 📚 Publications
 
 You can find my full list of publications and citation metrics on my Google Scholar page:  
-➡️ https://scholar.google.com/citations?user=nK8EziQAAAAJ&hl=en  [Google Scholar](https://scholar.google.com/citations?hl=en&user=nK8EziQAAAAJ)
+➡️  [Google Scholar](https://scholar.google.com/citations?hl=en&user=nK8EziQAAAAJ)
 
 ---
 

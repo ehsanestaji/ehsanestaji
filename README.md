@@ -9,16 +9,15 @@ I’m a **Postdoctoral Researcher** at the **Umeå Plant Science Centre (UPSC), 
 
 ## 🎓 About Me
 
-I am a researcher with dual PhDs in **Mathematics** and **Computer Science**, currently a Postdoctoral Researcher at the Umeå Plant Science Centre (UPSC), Umeå University. My work bridges **machine learning, network science, and computational biology**, with a particular focus on **long non-coding RNAs (lncRNAs)** and **graph-based AI for understanding complex biological systems**.  [oai_citation:0‡ehsanestaji.com](https://ehsanestaji.com/?utm_source=chatgpt.com)
+I am a researcher with dual PhDs in **Mathematics** and **Computer Science**, currently a Postdoctoral Researcher at the Umeå Plant Science Centre (UPSC), Umeå University. My work bridges **machine learning, network science, and computational biology**, with a particular focus on **long non-coding RNAs (lncRNAs)** and **graph-based AI for understanding complex biological systems**.  
 
-I design end-to-end computational frameworks that connect raw biological signals—such as RNA-seq and multi-omics data—to interpretable graph representations and biological hypotheses. My research integrates **self-supervised learning**, **graph neural networks (GNNs)**, and AI-driven discovery pipelines to uncover regulatory patterns and gene interactions across plant species.  [oai_citation:1‡ehsanestaji.com](https://ehsanestaji.com/?utm_source=chatgpt.com)
+I design end-to-end computational frameworks that connect raw biological signals—such as RNA-seq and multi-omics data—to interpretable graph representations and biological hypotheses. My research integrates **self-supervised learning**, **graph neural networks (GNNs)**, and AI-driven discovery pipelines to uncover regulatory patterns and gene interactions across plant species.  
 
 Beyond research, I bring a strong engineering mindset to the practical side of science:
 - 🧠 Building scalable ML pipelines and automated workflows for biological data.
 - 🌿 Developing graph-centric models for gene regulatory network inference.
 - 💡 Creating interactive dashboards and visualization tools for interpretable AI in genomics.
-- ⚙️ Applying MLOps and data-centric design to translate scientific prototypes into usable tools.  [oai_citation:2‡ehsanestaji.com](https://ehsanestaji.com/?utm_source=chatgpt.com)
-
+- ⚙️ Applying MLOps and data-centric design to translate scientific prototypes into usable tools.  
 ---
 
 ## 🧠 Research Interests
@@ -71,7 +70,7 @@ Feel free to explore, ⭐, and engage!
 ## 📚 Publications
 
 You can find my full list of publications and citation metrics on my Google Scholar page:  
-➡️ https://scholar.google.com/citations?user=nK8EziQAAAAJ&hl=en  [oai_citation:3‡Google Scholar](https://scholar.google.com/citations?hl=en&user=nK8EziQAAAAJ&utm_source=chatgpt.com)
+➡️ https://scholar.google.com/citations?user=nK8EziQAAAAJ&hl=en  [Google Scholar](https://scholar.google.com/citations?hl=en&user=nK8EziQAAAAJ)
 
 ---
 

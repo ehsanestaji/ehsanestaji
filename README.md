@@ -124,9 +124,15 @@ lncRNA analysis, knowledge graphs, GNNs for gene networks, multi-omics integrati
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ehsanestaji&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0d9488&icon_color=3b82f6&text_color=475569&ring_color=0d9488" />
+<a href="https://github.com/ehsanestaji">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ehsanestaji&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+</a>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanestaji&layout=compact&hide_border=true&bg_color=00000000&title_color=0d9488&text_color=475569&langs_count=8" />
+<a href="https://github.com/ehsanestaji">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanestaji&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</a>
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanestaji&theme=github-dark-blue&hide_border=true" />
 
 </div>
 

@@ -10,9 +10,7 @@ formal methods, and plant genomics.
 [Website](https://www.ehsanestaji.com) ·
 [Google Scholar](https://scholar.google.com/citations?user=nK8EziQAAAAJ&hl=en) ·
 [ORCID](https://orcid.org/0000-0003-1988-8640) ·
-[DBLP](https://dblp.org/pid/211/0954.html) ·
-[LinkedIn](https://www.linkedin.com/in/eestaji/) ·
-[ResearchGate](https://www.researchgate.net/profile/Ehsan-Estaji)
+[LinkedIn](https://www.linkedin.com/in/eestaji/)
 
 ---
 

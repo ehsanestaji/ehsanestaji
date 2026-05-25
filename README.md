@@ -3,7 +3,7 @@
 Postdoctoral researcher at the **Umeå Plant Science Centre (UPSC)**, Umeå University.
 Dual PhD in **Mathematics** (graph theory, metric dimension) and **Computer Science**
 (information security, formal verification). Work crosses combinatorial structure,
-formal methods, and plant genomics.
+formal methods, and bioinformatics.
 
 📍 Umeå, Sweden · ✉️ [ehsan.estaji@umu.se](mailto:ehsan.estaji@umu.se)
 
